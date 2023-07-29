@@ -1,0 +1,5 @@
+Security Access using MFRC522 RFID Reader with Arduino
+This blog post shows a simple example on how to use the MFRC522 RFID reader. 
+I’ll do a quick overview of the specifications and demonstrate a project example using an Arduino.
+
+
